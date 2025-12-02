@@ -1,4 +1,4 @@
-MODULE 3 — Evidence and Safety
+MODULE 3 — Guardrails
 
 Purpose:
 Keep all summaries factual, transparent, and free of hallucinations.
