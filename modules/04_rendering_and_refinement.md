@@ -1,4 +1,4 @@
-MODULE 4 — Final Assembly
+MODULE 4 — Rendering and Refinement
 
 Purpose:
 Combine all summaries, warnings, and outputs into the final structured result.
