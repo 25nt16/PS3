@@ -1,4 +1,4 @@
-MODULE 2 — Section Summaries
+MODULE 2 — Section Loop
 
 Purpose:
 Summarize each section of the paper according to the user’s preferences.
